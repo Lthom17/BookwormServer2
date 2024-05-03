@@ -1,0 +1,7 @@
+*.mvn
+
+*.DS_Store
+
+*.env
+
+*.vscode
