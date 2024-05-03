@@ -16,6 +16,7 @@ com/bookworm/data/mappers/GroupMapper.class
 com/bookworm/data/GroupRepository.class
 com/bookworm/App.class
 com/bookworm/models/Member.class
+com/bookworm/config/SecurityConfig.class
 com/bookworm/data/mappers/MemberMapper.class
 com/bookworm/data/mappers/BookMapper.class
 com/bookworm/models/ErrorResponse.class
