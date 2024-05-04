@@ -11,7 +11,6 @@ com/bookworm/models/BookshelfType.class
 com/bookworm/data/BookJdbcTemplateRepository.class
 com/bookworm/data/MemberJdbcTemplateRepository.class
 com/bookworm/controllers/MemberController.class
-com/bookworm/HelloController$Result.class
 com/bookworm/data/mappers/GroupMapper.class
 com/bookworm/data/GroupRepository.class
 com/bookworm/App.class
@@ -24,7 +23,6 @@ com/bookworm/models/Book.class
 com/bookworm/data/GroupJdbcTemplateRepository.class
 com/bookworm/models/ResultType.class
 com/bookworm/models/BookUser.class
-com/bookworm/HelloController.class
 com/bookworm/data/BookshelfRepository.class
 com/bookworm/data/mappers/BookshelfMapper.class
 com/bookworm/domain/MemberService.class

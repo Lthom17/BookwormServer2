@@ -14,7 +14,6 @@
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/data/GroupRepository.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/data/mappers/MemberMapper.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/data/MemberJdbcTemplateRepository.java
-/Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/HelloController.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/models/BookshelfType.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/models/Member.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/data/BookshelfRepository.java
