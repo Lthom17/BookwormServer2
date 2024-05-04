@@ -3,6 +3,7 @@
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/models/Book.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/data/mappers/GroupMapper.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/models/Bookshelf.java
+/Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/config/SecurityConfig.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/models/Result.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/domain/LibraryService.java
 /Users/laurenthom/Desktop/Bookworm/BookwormServiceMVN/demo/src/main/java/com/bookworm/controllers/MemberController.java
