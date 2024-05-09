@@ -46,7 +46,7 @@
             <version>0.11.2</version>
             <scope>runtime</scope>
         </dependency>
-
+        
          <!--- Database -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -83,8 +83,15 @@
 		    <groupId>org.springframework.boot</groupId>
 		    <artifactId>spring-boot-starter-security</artifactId>
 	    </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-test -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>6.1.5</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
-    
+
     <build>
         <plugins>
             <plugin>

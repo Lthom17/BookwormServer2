@@ -8,10 +8,7 @@ public class BookUser {
     private String first_name;
     private String last_name;
 
-    public BookUser() {
-    }
-
-    ;
+    public BookUser() {};
 
     public BookUser(String username, String password, String email, String first_name, String last_name) {
         this.username = username;
